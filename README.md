@@ -4,5 +4,3 @@ This repository will contain all of my personal projects created from [roadmap.s
 # Frontend Projects
 
 [Single-Page HTML CV](https://github.com/codyb34/roadmap.sh-projects/tree/main/Frontend%20Projects/Single-Page%20CV)
-
-https://roadmap.sh/projects/single-page-cv
