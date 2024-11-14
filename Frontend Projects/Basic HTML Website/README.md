@@ -1,6 +1,6 @@
 # Basic HTML Website
 
-[roadmap.sh link](https://roadmap.sh/projects/basic-html-website)
+https://roadmap.sh/projects/basic-html-website
 
 This project was completed on 11/14/2024.
 
